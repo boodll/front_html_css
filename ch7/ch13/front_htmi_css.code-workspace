@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Users/JYP/Downloads/ch7/fonts"
+		},
+		{
+			"path": "../../../../Users/JYP/Downloads/ch7/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front_htmi_css"
+	}
+}
